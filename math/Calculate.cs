@@ -14,7 +14,7 @@ namespace commonlib.math
     /// </summary>
     /// <remarks>
     /// - 1 --
-    /// 2016.03.17 zhengxin
+    /// 2018.10.18 zhengxin
     /// 优化，增加 <(左移)，>(右移)，&(与)，^(异或)，|(或) 5种运算
     /// 修正原运算优先级提取不正确问题
     /// </remarks>
